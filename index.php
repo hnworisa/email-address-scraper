@@ -7,7 +7,7 @@
 #  Version:   1.0
 #  License:   https://github.com/remeni/email-address-scrapper/blob/master/LICENSE
 #  Date:      1-Sept-2018
-#  Purpose:   Demo for a simple PHP class for scraping email addresses from webpages
+#  Purpose:   Simple PHP class for scraping email addresses from webpages demo
 #
 # ======================================================================== #
 
