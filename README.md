@@ -1,5 +1,6 @@
 # email-address-scraper
 Simple PHP class for scraping email addresses from webpages
+[![Made in Nigeria](https://img.shields.io/badge/made%20in-nigeria-008751.svg?style=flat-square)](https://github.com/acekyd/made-in-nigeria)
 
 ## Requirements
 PHP 5.2+
